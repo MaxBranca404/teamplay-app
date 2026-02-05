@@ -29,7 +29,7 @@ export default function LandingPage({ onLoginSuccess }) {
         {!authMode ? (
           /* SCELTA INIZIALE */
           <div className="intro-actions">
-            <h2 className="intro-title">Benvenuto</h2>
+            <h2 className="intro-title">ygiguug</h2>
             <p className="intro-text">Accedi al tuo spazio di lavoro o crea un nuovo team.</p>
             
             <div className="action-buttons-grid">
